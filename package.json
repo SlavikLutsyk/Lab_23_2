@@ -1,0 +1,22 @@
+{
+  "name": "myproject_23_2",
+  "version": "1.0.0",
+  "description": "Лабораторні роботи, 2 семестр",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavikLutsyk/Lab_23_2.git"
+  },
+  "author": "Yaroslav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlavikLutsyk/Lab_23_2/issues"
+  },
+  "homepage": "https://github.com/SlavikLutsyk/Lab_23_2#readme",
+  "devDependencies": {
+    "custom_modules": "file:custom_modules"
+  }
+}
