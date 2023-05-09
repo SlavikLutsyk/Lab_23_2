@@ -5,4 +5,4 @@ function strtok_word(str) {
     }
     return arr;
 }
-console.log(strtok_word("I like Bogdan, and dot."))
+console.log(strtok_word("I like Bogdan, and dot."));
